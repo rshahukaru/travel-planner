@@ -80,7 +80,7 @@ class TranslatorPage:
         ]
         
         response = st.session_state.openai_client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=messages,
             temperature=0.75
         )

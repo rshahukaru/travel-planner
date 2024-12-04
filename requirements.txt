@@ -2,3 +2,15 @@ streamlit
 requests
 streamlit_option_menu
 openai
+
+# Revanth Requirements
+
+bs4
+numpy
+audio_recorder_streamlit
+chromadb
+pysqlite3-binary
+requests
+tornado
+
+##############
